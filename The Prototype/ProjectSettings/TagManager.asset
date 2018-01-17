@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Backdrop
+    uniqueID: 179874855
+    locked: 0
+  - name: Playable
+    uniqueID: 1668311779
+    locked: 0
+  - name: Collisions
+    uniqueID: 1309817733
+    locked: 0
